@@ -1,5 +1,2 @@
-# Terminator-virus
-# THE WORST THING I HAVE EVER DONE. 
-# just for some beginners..?
----
-disable unicode if u wanna compile
+# Terminator
+C++ short GDI trojan by LeoLezury
